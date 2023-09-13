@@ -1,6 +1,6 @@
 {
-    "name": "pantheon-upstreams/drupal-composer-managed",
-    "description": "Install Drupal 9 with Composer on Pantheon.",
+    "name": "ivanbueno/drupal-10-composer-managed",
+    "description": "Install Drupal 10 with Composer on Pantheon.",
     "type": "project",
     "license": "MIT",
     "repositories": [
